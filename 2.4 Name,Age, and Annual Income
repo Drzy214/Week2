@@ -1,0 +1,10 @@
+fun main() {
+    // name equals Drzy
+    var name: String = "Drzy"
+    //age equals 22
+    var age: Int = 22
+    //annual pay equals $80000.0
+    var annualPay: Double = 80000.0
+    //display everything into a sentence
+    println("My name is " + name + ", my age is " + age + " and I hope to earn $" + annualPay + " per year ")
+}
